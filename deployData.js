@@ -6,10 +6,10 @@
   NetlifyDeployUrl: berisi string url Netlify deployment
 */
 
-const studentName = 'TODO: replace me'; // TODO: replace this
+const studentName = 'Raihan Ferdyanza'; // TODO: replace this
 
-const studentId = 'TODO: replace me'; // TODO: replace this
+const studentId = 'FE5235894'; // TODO: replace this
 
-const NetlifyDeployUrl = 'TODO: replace me'; // TODO: replace this
+const NetlifyDeployUrl = 'libraryapp-raihanferdyanza.netlify.app'; // TODO: replace this
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
